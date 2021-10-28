@@ -1,2 +1,2 @@
 # Maching-Learninng
-Machine Repo with various modeling techniques.
+Machine Learning Repo with various modeling techniques.
